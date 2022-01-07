@@ -1,11 +1,11 @@
-# Next boilerplace TS + Tailwind CSS + ESlint + Prettier
+# Next boilerplace TS + MUI + ESlint + Prettier
 
-This is my boilerplate of an aplication using [Tailwind CSS](https://tailwindcss.com/) and [TypeScript](https://www.typescriptlang.org/). And enforcing the code style with [Prettier](https://prettier.io/) and [ESLint](https://eslint.org/).
+This is my boilerplate of an aplication using [MUI](https://mui.com//) and [TypeScript](https://www.typescriptlang.org/). And enforcing the code style with [Prettier](https://prettier.io/) and [ESLint](https://eslint.org/).
 
 
 ## Features
 
-  - [x] [Tailwind CSS](https://tailwindcss.com/)
+  - [x] [MUI](https://mui.com/)
   - [x] [TypeScript](https://www.typescriptlang.org/)
   - [x] [Prettier](https://prettier.io/)
   - [x] [ESLint](https://eslint.org/)
