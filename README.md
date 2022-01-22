@@ -1,4 +1,4 @@
-# Next boilerplace TS + MUI + ESlint + Prettier
+# Next boilerplace TS + MUI + ESlint + Prettier + Laqi
 
 This is my boilerplate of an aplication using [MUI](https://mui.com//) and [TypeScript](https://www.typescriptlang.org/). And enforcing the code style with [Prettier](https://prettier.io/) and [ESLint](https://eslint.org/).
 
@@ -11,6 +11,8 @@ This is my boilerplate of an aplication using [MUI](https://mui.com//) and [Type
   - [x] [ESLint](https://eslint.org/)
   - [ ] [Docker](https://www.docker.com/)
   - [x] [Jest](https://facebook.github.io/jest/)
+  - [x] [Laqi](https://www.npmjs.com/package/laqi)
+  - [ ] [Husky](https://www.npmjs.com/package/husky)
 
 ## Interesting Packages
 
